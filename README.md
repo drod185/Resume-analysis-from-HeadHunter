@@ -11,3 +11,7 @@
 
 ## 4. Очистка данных
 
+Использованный файл базы данных можно взять здесь ([здесь](https://drive.google.com/file/d/1zUXI0PHTSM_H4ksgODkBSP1mBLM6hnaT/view?usp=drive_link))
+
+Использованные курсы валют ([здесь](https://drive.google.com/file/d/1K7uQd4AaXxCFbBDKmuG5kRTi4nVw2GvH/view?usp=drive_link))
+
